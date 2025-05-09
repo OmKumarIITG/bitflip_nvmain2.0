@@ -1,0 +1,1 @@
+./build/X86/gem5.opt configs/deprecated/example/se.py     -c tutorial_scripts/test     --cpu-type=TimingSimpleCPU     --caches     --l2cache    --mem-type=NVMainMemory     --nvmain-config=../nvmain/Config/PCM_ISSCC_2012_4GB.config
